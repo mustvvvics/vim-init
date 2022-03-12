@@ -1,4 +1,18 @@
+Thanks https://github.com/skywind3000/vim-init and https://github.com/DarkerWhite/vim-init
+
+```shell
+# use
+mkdir ~/.vim && cd ~/.vim &&git clone https://github.com/mustvvvics/vim-init &&echo "source /root/.vim/vim-init/init.vim" >> /usr/share/vim/vimrc && cd ..
+```
+
+
+
+---
+
+
+
 # 前言
+
 轻量级 Vim 配置框架，全中文注释，这既是一份合理的轻量级配置，更是一份简明教程。话说，网上的 Vim 配置多的数不过来，这里又做一个干嘛？这些配置都有一些问题：
 
 - 注释不够，很多配置就是劈里啪啦一堆 VimScript 看的人一头雾水，新人顶多只能 “用”，没法跟着 “学”。
